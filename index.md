@@ -1,46 +1,50 @@
 ---
 layout: page
-title: Hello World!
+title:  High Noon | 以梦为马
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+海子 1987
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+我要做远方的忠诚的儿子  
+和物质的短暂情人  
+和所有以梦为马的诗人一样  
+我不得不和烈士和小丑走在同一条道路上
 
-## Update Author Attributes
+万人都要将火熄灭  我一人独将此火高高举起  
+此火为大  开花落英于神圣的祖国  
+和所有以梦为马的诗人一样  
+我借此火得度一生的茫茫黑夜
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+此火为大  祖国的语言和乱石投筑的梁山城寨  
+以梦为上的敦煌——那七月也会寒冷的骨骼  
+如雪白的柴和坚硬的条条白雪  横放在众神之山  
+和所有以梦为马的诗人一样  
+我投入此火  这三者是囚禁我的灯盏  吐出光辉
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+万人都要从我刀口走过  去建筑祖国的语言  
+我甘愿一切从头开始  
+和所有以梦为马的诗人一样  
+我也愿将牢底坐穿
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+众神创造物中只有我最易朽  带着不可抗拒的死亡的速度  
+只有粮食是我珍爱  我将她紧紧抱住  抱住她在故乡生儿育女  
+和所有以梦为马的诗人一样  
+我也愿将自己埋葬在四周高高的山上  守望平静的家园
 
-    $ rm -rf _posts/core-samples
+面对大河我无渐惭愧   
+我年华虚度  空有一身疲倦  
+和所有以梦为马的诗人一样  
+岁月易逝  一滴不剩  水滴中有一匹马儿一命归天
 
-Here's a sample "posts list".
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+
+
+<ul class="pager">
+      <li class="next"><a href="/archive.html" title="所有文章">查看所有文章 &rarr;</a></li>
 </ul>
 
-## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 

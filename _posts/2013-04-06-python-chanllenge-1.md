@@ -40,8 +40,8 @@ now apply on the url.'
     print ''.join(chr(ord(x) + 2) for x in 'map')
 
     #解法2
-    table = string.maketrans(string.ascii_lowercase, string.ascii_lowercase[2:] +
-            string.ascii_lowercase[0:2])
+    table = string.maketrans(string.ascii_lowercase,
+            string.ascii_lowercase[2:] + string.ascii_lowercase[0:2])
     print s.translate(table)
     print 'map'.translate(table)
 

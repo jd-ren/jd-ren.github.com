@@ -4,5 +4,5 @@
 
 
 
-感谢 Jekyll, Twitter Bootstrap
+感谢 Jade Dominguez
 :）

@@ -6,7 +6,7 @@ category: python
 tags: [python, python challenge]
 ---
 {% include JB/setup %}
-[地址]（http://www.pythonchallenge.com/pc/def/equality.html）
+[地址](http://www.pythonchallenge.com/pc/def/equality.html)
 第三题比较简单，主要是考察对re模块的使用
 python代码
 {% highlight python %}

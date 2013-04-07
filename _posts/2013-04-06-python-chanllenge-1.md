@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python chanllenge 1"
+title: "python challenge 1"
 description: ""
 category: python 
 tags: [python, python challenge]

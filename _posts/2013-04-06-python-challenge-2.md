@@ -33,4 +33,18 @@ print re.findall('[a-z]', t)
 
 c = collections.Counter(t)
 print c.most_common()
+
+"""方法4.刚在学习字符串时，觉得可以利用字符串对象的
+内建方法count完成方法3.代码比方法3多了点，不过百分百
+原创：）。第一个循环统计文本里的不同字符，第二个循环
+统计各字符数量。4.8
+"""
+a = ''
+for i in t:
+    if i in a:
+        pass
+    else:
+        a += i
+for i in a:
+    print i, t.count(i)
 {% endhighlight %}
